@@ -1,0 +1,15 @@
+C:\Users\djang\source\repos\workingWithClasses\workingWithClasses\bin\Debug\net7.0\workingWithClasses.exe
+C:\Users\djang\source\repos\workingWithClasses\workingWithClasses\bin\Debug\net7.0\workingWithClasses.deps.json
+C:\Users\djang\source\repos\workingWithClasses\workingWithClasses\bin\Debug\net7.0\workingWithClasses.runtimeconfig.json
+C:\Users\djang\source\repos\workingWithClasses\workingWithClasses\bin\Debug\net7.0\workingWithClasses.dll
+C:\Users\djang\source\repos\workingWithClasses\workingWithClasses\bin\Debug\net7.0\workingWithClasses.pdb
+C:\Users\djang\source\repos\workingWithClasses\workingWithClasses\obj\Debug\net7.0\workingWithClasses.csproj.AssemblyReference.cache
+C:\Users\djang\source\repos\workingWithClasses\workingWithClasses\obj\Debug\net7.0\workingWithClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\djang\source\repos\workingWithClasses\workingWithClasses\obj\Debug\net7.0\workingWithClasses.AssemblyInfoInputs.cache
+C:\Users\djang\source\repos\workingWithClasses\workingWithClasses\obj\Debug\net7.0\workingWithClasses.AssemblyInfo.cs
+C:\Users\djang\source\repos\workingWithClasses\workingWithClasses\obj\Debug\net7.0\workingWithClasses.csproj.CoreCompileInputs.cache
+C:\Users\djang\source\repos\workingWithClasses\workingWithClasses\obj\Debug\net7.0\workingWithClasses.dll
+C:\Users\djang\source\repos\workingWithClasses\workingWithClasses\obj\Debug\net7.0\refint\workingWithClasses.dll
+C:\Users\djang\source\repos\workingWithClasses\workingWithClasses\obj\Debug\net7.0\workingWithClasses.pdb
+C:\Users\djang\source\repos\workingWithClasses\workingWithClasses\obj\Debug\net7.0\workingWithClasses.genruntimeconfig.cache
+C:\Users\djang\source\repos\workingWithClasses\workingWithClasses\obj\Debug\net7.0\ref\workingWithClasses.dll
